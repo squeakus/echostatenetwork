@@ -1,0 +1,1 @@
+This is my python implementation of the echo state network as devised by Herbert Jaeger. It is a nifty little network that is randomly initialised with sparse connections (<10%). It is then trained using simple lineart algebra techniques.
